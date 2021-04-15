@@ -8,6 +8,8 @@ Hạn chế: chưa nắm bắt rõ ràng về các design pattern, còn khó kh�
 
 ## Bai5 Thực hành 3
 ``` 
-Link git: https://github.com/xuan4tt/Create-package-
+- Link git: https://github.com/xuan4tt/Create-package-
+
+- Installation: composer require xuan4tt/create-package
 
 ```
